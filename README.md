@@ -5,7 +5,12 @@
 <h1 align="center">Hi 👋, I'm Nadin Ahmed</h1>
 <h3 align="center">Striving Web & App Developer | Passionate About Creating Seamless User Experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadinnah&label=Profile%20views&color=0e75b6&style=flat" alt="nadinnah" /> </p>
+## 📊 Profile Statistics
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nadinnah&label=PROFILE+VIEWS&color=0f9b8e&style=for-the-badge" alt="Profile views" />
+</p>
+
 
 <h3>- ⚡ About Me:</h3>
 A Computer Engineering student at Ain Shams University, with a dual degree from the University of East London. My passion for design and art drives me to explore the latest trends in web and app development. I'm currently focused on enhancing my skills in JavaScript and React to build dynamic and interactive user interfaces.
