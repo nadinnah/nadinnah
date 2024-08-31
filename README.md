@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Nadin Ahmed</h1>
 <h3 align="center">Striving Web & App Developer | Passionate About Creating Seamless User Experiences</h3>
 
-## 📊 Profile Statistics
 
+<h3>- 📊 Profile Statistics</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nadinnah&label=PROFILE+VIEWS&color=0f9b8e&style=for-the-badge" alt="Profile views" />
 </p>
