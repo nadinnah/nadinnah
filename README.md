@@ -11,9 +11,13 @@ A Computer Engineering student at Ain Shams University, with a dual degree from 
 <h3>- 🌱 I’m currently learning</h3> <strong>react, Node.js, Express.js, Flutter</strong>
 
 <h3>- 👨‍💻 All of my projects are available at</h3> 
-<h2><a href="https://nadinnah.github.io/html-Portfolio/">Portfolio link</a></h2> 
+<h2>
+  <p><a href="https://nadinnah.github.io/html-Portfolio/" style="text-decoration:none;">Portfolio link</a></p>
+</h2>
 
-<h3>- 📫 How to reach me</h3> <strong>nadinahmedmohamed@gmail.com</strong>
+
+
+<h3>- 📫 How to reach me</h3> <h3><a href="mailto:nadinahmedmohamed@gmail.com" >My Email</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
