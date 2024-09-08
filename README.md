@@ -5,14 +5,11 @@
 <h1 align="center">Hi 👋, I'm Nadin Ahmed</h1>
 <h3 align="center">Striving Web & App Developer | Passionate About Creating Seamless User Experiences</h3>
 
-<h3>- ⚡ About Me:</h3>
-A Computer Engineering student at Ain Shams University with a dual degree from the University of East London. My passion for design and art drives me to explore the latest trends in web and app development. I'm currently focused on enhancing my skills in JavaScript and React to build dynamic and interactive user interfaces.
-
 <h3>- 🌱 I’m currently learning</h3> <strong>react, Node.js, Express.js, Flutter</strong>
 
 <h3>- 👨‍💻 All of my projects are available at</h3> 
 <h2>
-  <p><a href="https://nadinnah.github.io/html-Portfolio/" style="text-decoration:none;">Portfolio link</a></p>
+  <a href="https://nadinnah.github.io/html-Portfolio/">Portfolio link</a>
 </h2>
 
 
