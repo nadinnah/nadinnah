@@ -3,14 +3,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Nadin Ahmed</h1>
-<h3 align="center">Striving Web & App Developer | Passionate About Creating Seamless User Experiences</h3>
+<h3 align="center">Striving Web, App & Backend Developer |  </h3>
 
-<h3>- 🌱 I’m currently learning</h3> <strong>react, Node.js, Express.js, Flutter</strong>
+<h3>- 🌱 I’m currently learning</h3> <strong>Spring boot, OracleSQL, ERP, Flutter, React, Angular</strong>
 
-<h3>- 👨‍💻 All of my projects are available at</h3> 
+<!-- <h3>- 👨‍💻 All of my projects are available at</h3> 
 <h2>
   <a href="https://nadinnah.github.io/html-Portfolio/">Portfolio link</a>
-</h2>
+</h2> -->
 
 
 
